@@ -1,0 +1,15 @@
+.type-move-item {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(40px, 60px));
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+.type-move-item__item {
+    transition: .3s all ease-out;
+}
+
+.type-move-item__item:hover {
+    color: red;
+    transition: .3s all ease-out;
+}

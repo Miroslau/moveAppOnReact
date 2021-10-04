@@ -1,0 +1,39 @@
+.move {
+    margin: 0;
+    padding: 0;
+}
+
+.move-list {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+
+.results {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.loader {
+    max-width: 1200px;
+    width: 100%;
+    padding-top: 25px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.search {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
+
+.pagination {
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+}

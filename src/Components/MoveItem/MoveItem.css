@@ -1,0 +1,21 @@
+.image {
+    width: 250px;
+    height: auto;
+}
+
+.description > ul {
+    list-style: none;
+    padding: 0;
+}
+
+.description > ul > li {
+    padding-top: 15px;
+}
+
+.description > ul > li:last-child {
+    padding-bottom: 20px;
+}
+
+.description > ul > li:first-child {
+    padding-top: 5px;
+}
