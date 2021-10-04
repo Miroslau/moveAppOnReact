@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moveAppOnReact/static/css/main.e9babaa6.chunk.css",
+    "main.js": "/moveAppOnReact/static/js/main.ccfb9d1b.chunk.js",
+    "main.js.map": "/moveAppOnReact/static/js/main.ccfb9d1b.chunk.js.map",
+    "runtime-main.js": "/moveAppOnReact/static/js/runtime-main.28ea5480.js",
+    "runtime-main.js.map": "/moveAppOnReact/static/js/runtime-main.28ea5480.js.map",
+    "static/js/2.717ae41b.chunk.js": "/moveAppOnReact/static/js/2.717ae41b.chunk.js",
+    "static/js/2.717ae41b.chunk.js.map": "/moveAppOnReact/static/js/2.717ae41b.chunk.js.map",
+    "static/js/3.6b82de25.chunk.js": "/moveAppOnReact/static/js/3.6b82de25.chunk.js",
+    "static/js/3.6b82de25.chunk.js.map": "/moveAppOnReact/static/js/3.6b82de25.chunk.js.map",
+    "index.html": "/moveAppOnReact/index.html",
+    "static/css/main.e9babaa6.chunk.css.map": "/moveAppOnReact/static/css/main.e9babaa6.chunk.css.map",
+    "static/js/2.717ae41b.chunk.js.LICENSE.txt": "/moveAppOnReact/static/js/2.717ae41b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ea5480.js",
+    "static/js/2.717ae41b.chunk.js",
+    "static/css/main.e9babaa6.chunk.css",
+    "static/js/main.ccfb9d1b.chunk.js"
+  ]
+}
